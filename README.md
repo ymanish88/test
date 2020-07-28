@@ -2,5 +2,3 @@
 ## edit
 
 - something
-- something more
-- mwkdnjw
